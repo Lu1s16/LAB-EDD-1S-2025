@@ -24,6 +24,11 @@ public class Juego
 
             Random rnd = new Random();
             int opcioncpu = rnd.Next(1,4);
+
+            //Opciones maquina
+            // 1. Piedra
+            // 2. Papel
+            // 3. Tijera
             
 
             switch(op)
