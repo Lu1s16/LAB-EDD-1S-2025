@@ -1,0 +1,14 @@
+/home/luis/Escritorio/Ejemplos/Ejemplo1/bin/Debug/net9.0/Ejemplo1
+/home/luis/Escritorio/Ejemplos/Ejemplo1/bin/Debug/net9.0/Ejemplo1.deps.json
+/home/luis/Escritorio/Ejemplos/Ejemplo1/bin/Debug/net9.0/Ejemplo1.runtimeconfig.json
+/home/luis/Escritorio/Ejemplos/Ejemplo1/bin/Debug/net9.0/Ejemplo1.dll
+/home/luis/Escritorio/Ejemplos/Ejemplo1/bin/Debug/net9.0/Ejemplo1.pdb
+/home/luis/Escritorio/Ejemplos/Ejemplo1/obj/Debug/net9.0/Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Escritorio/Ejemplos/Ejemplo1/obj/Debug/net9.0/Ejemplo1.AssemblyInfoInputs.cache
+/home/luis/Escritorio/Ejemplos/Ejemplo1/obj/Debug/net9.0/Ejemplo1.AssemblyInfo.cs
+/home/luis/Escritorio/Ejemplos/Ejemplo1/obj/Debug/net9.0/Ejemplo1.csproj.CoreCompileInputs.cache
+/home/luis/Escritorio/Ejemplos/Ejemplo1/obj/Debug/net9.0/Ejemplo1.dll
+/home/luis/Escritorio/Ejemplos/Ejemplo1/obj/Debug/net9.0/refint/Ejemplo1.dll
+/home/luis/Escritorio/Ejemplos/Ejemplo1/obj/Debug/net9.0/Ejemplo1.pdb
+/home/luis/Escritorio/Ejemplos/Ejemplo1/obj/Debug/net9.0/Ejemplo1.genruntimeconfig.cache
+/home/luis/Escritorio/Ejemplos/Ejemplo1/obj/Debug/net9.0/ref/Ejemplo1.dll
