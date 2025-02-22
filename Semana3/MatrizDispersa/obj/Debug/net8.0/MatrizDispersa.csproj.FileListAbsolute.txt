@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\obj\Debug\net8.0\MatrizDispersa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\obj\Debug\net8.0\MatrizDispersa.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\obj\Debug\net8.0\MatrizDispersa.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\obj\Debug\net8.0\MatrizDispersa.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\bin\Debug\net8.0\MatrizDispersa.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\bin\Debug\net8.0\MatrizDispersa.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\bin\Debug\net8.0\MatrizDispersa.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\bin\Debug\net8.0\MatrizDispersa.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\bin\Debug\net8.0\MatrizDispersa.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\obj\Debug\net8.0\MatrizDispersa.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\obj\Debug\net8.0\refint\MatrizDispersa.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\obj\Debug\net8.0\MatrizDispersa.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\obj\Debug\net8.0\MatrizDispersa.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\MatrizDispersa\obj\Debug\net8.0\ref\MatrizDispersa.dll

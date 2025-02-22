@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\bin\Debug\net8.0\ListaCircular.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\bin\Debug\net8.0\ListaCircular.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\bin\Debug\net8.0\ListaCircular.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\bin\Debug\net8.0\ListaCircular.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\bin\Debug\net8.0\ListaCircular.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\obj\Debug\net8.0\ListaCircular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\obj\Debug\net8.0\ListaCircular.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\obj\Debug\net8.0\ListaCircular.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\obj\Debug\net8.0\ListaCircular.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\obj\Debug\net8.0\ListaCircular.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\obj\Debug\net8.0\refint\ListaCircular.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\obj\Debug\net8.0\ListaCircular.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\obj\Debug\net8.0\ListaCircular.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaCircular\obj\Debug\net8.0\ref\ListaCircular.dll

@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\bin\Debug\net8.0\ListaDoble.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\bin\Debug\net8.0\ListaDoble.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\bin\Debug\net8.0\ListaDoble.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\bin\Debug\net8.0\ListaDoble.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\bin\Debug\net8.0\ListaDoble.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\obj\Debug\net8.0\ListaDoble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\obj\Debug\net8.0\ListaDoble.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\obj\Debug\net8.0\ListaDoble.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\obj\Debug\net8.0\ListaDoble.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\obj\Debug\net8.0\ListaDoble.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\obj\Debug\net8.0\refint\ListaDoble.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\obj\Debug\net8.0\ListaDoble.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\obj\Debug\net8.0\ListaDoble.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana3\ListaDoble\obj\Debug\net8.0\ref\ListaDoble.dll
