@@ -6,4 +6,4 @@ Es necesario instalar graphviz en linux debian <br>
 sudo apt install graphviz
 
 # comando equivalente para conversión en linux
-dot -Tpng graph.dot -o reporte.png
+Donde dice dot.exe cambiarlo a dot
