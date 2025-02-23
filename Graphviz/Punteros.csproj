@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks> 
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetGraph" Version="3.2.0" />
+    <PackageReference Include="GroupDocs.Conversion" Version="25.1.0" />
+    <PackageReference Include="Microsoft.Graph" Version="5.70.0" />
+  </ItemGroup>
+
+</Project>

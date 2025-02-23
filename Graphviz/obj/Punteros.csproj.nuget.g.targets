@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)system.text.json\9.0.1\buildTransitive\net8.0\System.Text.Json.targets" Condition="Exists('$(NuGetPackageRoot)system.text.json\9.0.1\buildTransitive\net8.0\System.Text.Json.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\9.0.1\buildTransitive\net8.0\Microsoft.Extensions.Logging.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\9.0.1\buildTransitive\net8.0\Microsoft.Extensions.Logging.Abstractions.targets')" />
+    <Import Project="$(NuGetPackageRoot)messagepackanalyzer\3.1.1\build\MessagePackAnalyzer.targets" Condition="Exists('$(NuGetPackageRoot)messagepackanalyzer\3.1.1\build\MessagePackAnalyzer.targets')" />
+    <Import Project="$(NuGetPackageRoot)groupdocs.conversion\25.1.0\build\net6.0\GroupDocs.Conversion.targets" Condition="Exists('$(NuGetPackageRoot)groupdocs.conversion\25.1.0\build\net6.0\GroupDocs.Conversion.targets')" />
+  </ImportGroup>
+</Project>
