@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yvGQdyMK1r0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis\\Documents\\Cursos\\Laboratorio EDD\\Ejemplos C#\\Semana3\\MatrizDispersa\\MatrizDispersa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis\\.nuget\\packages\\dotnetgraph\\3.2.0\\dotnetgraph.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

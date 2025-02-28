@@ -1,0 +1,629 @@
+digraph MyDirectedGraph {
+	subgraph MySDirectedSubGraph {
+		"rankdir"="same"
+		Columna1 [
+			"shape"="ellipse"
+			"label"="R1"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Columna2 [
+			"shape"="ellipse"
+			"label"="R2"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Columna1 -> Columna2 [
+			"arrowhead"="diamond"
+			"arrowtail"="diamond"
+			"color"="#FF0000"
+			"fontcolor"="#000000"
+			"penwidth"=1.50
+		]
+		Columna2 [
+			"shape"="ellipse"
+			"label"="R2"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Columna4 [
+			"shape"="ellipse"
+			"label"="R4"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Columna2 -> Columna4 [
+			"arrowhead"="diamond"
+			"arrowtail"="diamond"
+			"color"="#FF0000"
+			"fontcolor"="#000000"
+			"penwidth"=1.50
+		]
+		Columna4 [
+			"shape"="ellipse"
+			"label"="R4"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Columna10 [
+			"shape"="ellipse"
+			"label"="R10"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Columna4 -> Columna10 [
+			"arrowhead"="diamond"
+			"arrowtail"="diamond"
+			"color"="#FF0000"
+			"fontcolor"="#000000"
+			"penwidth"=1.50
+		]
+		Columna10 [
+			"shape"="ellipse"
+			"label"="R10"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		b [
+			"shape"="ellipse"
+			"label"="b"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		a -> b [
+			"arrowhead"="diamond"
+			"arrowtail"="diamond"
+			"color"="#FF0000"
+			"fontcolor"="#000000"
+			"penwidth"=1.50
+		]
+		d [
+			"shape"="ellipse"
+			"label"="d"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		c -> d [
+			"arrowhead"="diamond"
+			"arrowtail"="diamond"
+			"color"="#FF0000"
+			"fontcolor"="#000000"
+			"penwidth"=1.50
+		]
+	}
+	subgraph Capa1 {
+		"rankdir"="same"
+		Fila1 [
+			"shape"="ellipse"
+			"label"="V1"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		a [
+			"shape"="ellipse"
+			"label"="a"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		a [
+			"shape"="ellipse"
+			"label"="a"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Fila1 -> a [
+			"arrowhead"="diamond"
+			"arrowtail"="diamond"
+			"color"="#FF0000"
+			"fontcolor"="#000000"
+			"penwidth"=1.50
+		]
+		a [
+			"shape"="ellipse"
+			"label"="a"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		b [
+			"shape"="ellipse"
+			"label"="b"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+	}
+	subgraph Capa2 {
+		"rankdir"="same"
+		Fila3 [
+			"shape"="ellipse"
+			"label"="V3"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		c [
+			"shape"="ellipse"
+			"label"="c"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		c [
+			"shape"="ellipse"
+			"label"="c"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Fila3 -> c [
+			"arrowhead"="diamond"
+			"arrowtail"="diamond"
+			"color"="#FF0000"
+			"fontcolor"="#000000"
+			"penwidth"=1.50
+		]
+		c [
+			"shape"="ellipse"
+			"label"="c"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		d [
+			"shape"="ellipse"
+			"label"="d"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+	}
+	subgraph Capa3 {
+		"rankdir"="same"
+		Fila4 [
+			"shape"="ellipse"
+			"label"="V4"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		e [
+			"shape"="ellipse"
+			"label"="e"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		e [
+			"shape"="ellipse"
+			"label"="e"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Fila4 -> e [
+			"arrowhead"="diamond"
+			"arrowtail"="diamond"
+			"color"="#FF0000"
+			"fontcolor"="#000000"
+			"penwidth"=1.50
+		]
+		e [
+			"shape"="ellipse"
+			"label"="e"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+	}
+	subgraph Capa4 {
+		"rankdir"="same"
+		Fila6 [
+			"shape"="ellipse"
+			"label"="V6"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		f [
+			"shape"="ellipse"
+			"label"="f"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		f [
+			"shape"="ellipse"
+			"label"="f"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+		Fila6 -> f [
+			"arrowhead"="diamond"
+			"arrowtail"="diamond"
+			"color"="#FF0000"
+			"fontcolor"="#000000"
+			"penwidth"=1.50
+		]
+		f [
+			"shape"="ellipse"
+			"label"="f"
+			"fillcolor"="#FF7F50"
+			"fontcolor"="#000000"
+			"width"=0.50
+			"height"=0.50
+			"penwidth"=1.50
+		]
+	}
+	Fila1 [
+		"shape"="ellipse"
+		"label"="V1"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Fila3 [
+		"shape"="ellipse"
+		"label"="3"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Fila1 -> Fila3 [
+		"arrowhead"="diamond"
+		"arrowtail"="diamond"
+		"color"="#FF0000"
+		"fontcolor"="#000000"
+		"penwidth"=1.50
+	]
+	Fila3 [
+		"shape"="ellipse"
+		"label"="V3"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Fila4 [
+		"shape"="ellipse"
+		"label"="4"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Fila3 -> Fila4 [
+		"arrowhead"="diamond"
+		"arrowtail"="diamond"
+		"color"="#FF0000"
+		"fontcolor"="#000000"
+		"penwidth"=1.50
+	]
+	Fila4 [
+		"shape"="ellipse"
+		"label"="V4"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Fila6 [
+		"shape"="ellipse"
+		"label"="6"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Fila4 -> Fila6 [
+		"arrowhead"="diamond"
+		"arrowtail"="diamond"
+		"color"="#FF0000"
+		"fontcolor"="#000000"
+		"penwidth"=1.50
+	]
+	Fila6 [
+		"shape"="ellipse"
+		"label"="V6"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Columna1 [
+		"shape"="ellipse"
+		"label"="R1"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	a [
+		"shape"="ellipse"
+		"label"="a"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	a [
+		"shape"="ellipse"
+		"label"="a"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Columna1 -> a [
+		"arrowhead"="diamond"
+		"arrowtail"="diamond"
+		"color"="#FF0000"
+		"fontcolor"="#000000"
+		"penwidth"=1.50
+	]
+	a [
+		"shape"="ellipse"
+		"label"="a"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	f [
+		"shape"="ellipse"
+		"label"="f"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	a -> f [
+		"arrowhead"="diamond"
+		"arrowtail"="diamond"
+		"color"="#FF0000"
+		"fontcolor"="#000000"
+		"penwidth"=1.50
+	]
+	f [
+		"shape"="ellipse"
+		"label"="f"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Columna2 [
+		"shape"="ellipse"
+		"label"="R2"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	b [
+		"shape"="ellipse"
+		"label"="b"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	b [
+		"shape"="ellipse"
+		"label"="b"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Columna2 -> b [
+		"arrowhead"="diamond"
+		"arrowtail"="diamond"
+		"color"="#FF0000"
+		"fontcolor"="#000000"
+		"penwidth"=1.50
+	]
+	b [
+		"shape"="ellipse"
+		"label"="b"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	e [
+		"shape"="ellipse"
+		"label"="e"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	b -> e [
+		"arrowhead"="diamond"
+		"arrowtail"="diamond"
+		"color"="#FF0000"
+		"fontcolor"="#000000"
+		"penwidth"=1.50
+	]
+	e [
+		"shape"="ellipse"
+		"label"="e"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Columna4 [
+		"shape"="ellipse"
+		"label"="R4"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	c [
+		"shape"="ellipse"
+		"label"="c"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	c [
+		"shape"="ellipse"
+		"label"="c"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Columna4 -> c [
+		"arrowhead"="diamond"
+		"arrowtail"="diamond"
+		"color"="#FF0000"
+		"fontcolor"="#000000"
+		"penwidth"=1.50
+	]
+	c [
+		"shape"="ellipse"
+		"label"="c"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Columna10 [
+		"shape"="ellipse"
+		"label"="R10"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	d [
+		"shape"="ellipse"
+		"label"="d"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	d [
+		"shape"="ellipse"
+		"label"="d"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+	Columna10 -> d [
+		"arrowhead"="diamond"
+		"arrowtail"="diamond"
+		"color"="#FF0000"
+		"fontcolor"="#000000"
+		"penwidth"=1.50
+	]
+	d [
+		"shape"="ellipse"
+		"label"="d"
+		"fillcolor"="#FF7F50"
+		"fontcolor"="#000000"
+		"width"=0.50
+		"height"=0.50
+		"penwidth"=1.50
+	]
+}
