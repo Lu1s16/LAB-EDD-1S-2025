@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\bin\Debug\net8.0\InsertionSort.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\bin\Debug\net8.0\InsertionSort.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\bin\Debug\net8.0\InsertionSort.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\bin\Debug\net8.0\InsertionSort.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\bin\Debug\net8.0\InsertionSort.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\obj\Debug\net8.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\obj\Debug\net8.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\obj\Debug\net8.0\InsertionSort.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\obj\Debug\net8.0\refint\InsertionSort.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\obj\Debug\net8.0\InsertionSort.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\obj\Debug\net8.0\InsertionSort.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\InsertionSort\obj\Debug\net8.0\ref\InsertionSort.dll

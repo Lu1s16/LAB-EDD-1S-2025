@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\bin\Debug\net8.0\Bubble sort.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\bin\Debug\net8.0\Bubble sort.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\bin\Debug\net8.0\Bubble sort.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\bin\Debug\net8.0\Bubble sort.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\bin\Debug\net8.0\Bubble sort.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\obj\Debug\net8.0\Bubble sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\obj\Debug\net8.0\Bubble sort.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\obj\Debug\net8.0\Bubble sort.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\obj\Debug\net8.0\Bubble sort.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\obj\Debug\net8.0\Bubble sort.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\obj\Debug\net8.0\refint\Bubble sort.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\obj\Debug\net8.0\Bubble sort.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\obj\Debug\net8.0\Bubble sort.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana5\Bubble sort\obj\Debug\net8.0\ref\Bubble sort.dll
