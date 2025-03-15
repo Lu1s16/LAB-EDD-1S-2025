@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\bin\Debug\net8.0\Semana6.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\bin\Debug\net8.0\Semana6.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\bin\Debug\net8.0\Semana6.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\bin\Debug\net8.0\Semana6.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\bin\Debug\net8.0\Semana6.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\obj\Debug\net8.0\Semana6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\obj\Debug\net8.0\Semana6.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\obj\Debug\net8.0\Semana6.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\obj\Debug\net8.0\Semana6.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\obj\Debug\net8.0\Semana6.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\obj\Debug\net8.0\refint\Semana6.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\obj\Debug\net8.0\Semana6.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\obj\Debug\net8.0\Semana6.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Semana6\obj\Debug\net8.0\ref\Semana6.dll
