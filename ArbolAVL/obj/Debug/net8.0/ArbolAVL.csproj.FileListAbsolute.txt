@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\obj\Debug\net8.0\ArbolAVL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\obj\Debug\net8.0\ArbolAVL.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\obj\Debug\net8.0\ArbolAVL.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\obj\Debug\net8.0\ArbolAVL.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\bin\Debug\net8.0\ArbolAVL.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\bin\Debug\net8.0\ArbolAVL.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\bin\Debug\net8.0\ArbolAVL.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\bin\Debug\net8.0\ArbolAVL.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\bin\Debug\net8.0\ArbolAVL.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\obj\Debug\net8.0\ArbolAVL.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\obj\Debug\net8.0\refint\ArbolAVL.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\obj\Debug\net8.0\ArbolAVL.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\obj\Debug\net8.0\ArbolAVL.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\ArbolAVL\obj\Debug\net8.0\ref\ArbolAVL.dll
