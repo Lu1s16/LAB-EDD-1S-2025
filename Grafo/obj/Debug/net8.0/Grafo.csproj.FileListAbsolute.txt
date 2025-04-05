@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\bin\Debug\net8.0\Grafo.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\bin\Debug\net8.0\Grafo.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\bin\Debug\net8.0\Grafo.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\bin\Debug\net8.0\Grafo.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\bin\Debug\net8.0\Grafo.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\obj\Debug\net8.0\Grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\obj\Debug\net8.0\Grafo.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\obj\Debug\net8.0\Grafo.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\obj\Debug\net8.0\Grafo.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\obj\Debug\net8.0\Grafo.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\obj\Debug\net8.0\refint\Grafo.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\obj\Debug\net8.0\Grafo.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\obj\Debug\net8.0\Grafo.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Grafo\obj\Debug\net8.0\ref\Grafo.dll
