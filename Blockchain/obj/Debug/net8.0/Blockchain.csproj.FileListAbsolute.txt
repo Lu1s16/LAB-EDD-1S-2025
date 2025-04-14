@@ -1,0 +1,14 @@
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\bin\Debug\net8.0\Blockchain.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\bin\Debug\net8.0\Blockchain.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\bin\Debug\net8.0\Blockchain.runtimeconfig.json
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\bin\Debug\net8.0\Blockchain.dll
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\bin\Debug\net8.0\Blockchain.pdb
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\obj\Debug\net8.0\Blockchain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\obj\Debug\net8.0\Blockchain.AssemblyInfoInputs.cache
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\obj\Debug\net8.0\Blockchain.AssemblyInfo.cs
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\obj\Debug\net8.0\Blockchain.csproj.CoreCompileInputs.cache
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\obj\Debug\net8.0\Blockchain.dll
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\obj\Debug\net8.0\refint\Blockchain.dll
+c:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\obj\Debug\net8.0\Blockchain.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\obj\Debug\net8.0\Blockchain.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Blockchain\obj\Debug\net8.0\ref\Blockchain.dll
