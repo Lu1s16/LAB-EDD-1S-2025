@@ -1,0 +1,17 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\bin\Debug\net8.0\ArbolMerkle.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\bin\Debug\net8.0\ArbolMerkle.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\bin\Debug\net8.0\ArbolMerkle.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\bin\Debug\net8.0\ArbolMerkle.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\bin\Debug\net8.0\ArbolMerkle.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ArbolMerkle.csproj.AssemblyReference.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ArbolMerkle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ArbolMerkle.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ArbolMerkle.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ArbolMerkle.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ArbolMer.B6CAFD55.Up2Date
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ArbolMerkle.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\refint\ArbolMerkle.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ArbolMerkle.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ArbolMerkle.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\ArbolMerkle\obj\Debug\net8.0\ref\ArbolMerkle.dll

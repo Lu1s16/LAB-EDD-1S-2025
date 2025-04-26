@@ -1,0 +1,14 @@
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\bin\Debug\net8.0\Huffman.exe
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\bin\Debug\net8.0\Huffman.deps.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\bin\Debug\net8.0\Huffman.runtimeconfig.json
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\bin\Debug\net8.0\Huffman.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\bin\Debug\net8.0\Huffman.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\obj\Debug\net8.0\Huffman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfoInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\obj\Debug\net8.0\Huffman.AssemblyInfo.cs
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\obj\Debug\net8.0\Huffman.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\obj\Debug\net8.0\Huffman.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\obj\Debug\net8.0\refint\Huffman.dll
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\obj\Debug\net8.0\Huffman.pdb
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\obj\Debug\net8.0\Huffman.genruntimeconfig.cache
+C:\Users\Luis\Documents\Cursos\Laboratorio EDD\Ejemplos C#\Huffman\obj\Debug\net8.0\ref\Huffman.dll
